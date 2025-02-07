@@ -36,7 +36,7 @@ Cet exercice consiste à afficher la dernière touche pressée par l'utilisateur
 Pour démarrer l'application en mode développement, utilisez la commande suivante :
 
 ```bash
-npm start
+npm dev
 ```
 
 Cela ouvrira l'application dans votre navigateur à l'adresse [http://localhost:3000](http://localhost:3000) 🌐.
